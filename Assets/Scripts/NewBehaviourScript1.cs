@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// Some random comments
 public class NewBehaviourScript1 : MonoBehaviour
 {
 
@@ -9,6 +10,7 @@ public class NewBehaviourScript1 : MonoBehaviour
   void Start ()
   {
     // I'm removing this line
+    // New line added
   }
 
   // Update is called once per frame
