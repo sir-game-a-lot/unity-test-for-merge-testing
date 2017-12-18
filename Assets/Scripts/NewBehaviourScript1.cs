@@ -8,7 +8,7 @@ public class NewBehaviourScript1 : MonoBehaviour
 
   void Start ()
   {
-    // yet another change here
+    // No Changes
     // huh really
   }
 
@@ -17,5 +17,7 @@ public class NewBehaviourScript1 : MonoBehaviour
 
   }
 
-  // YetAnotherFunction was here, we miss it!
+  void YAF2()
+  {
+  } 
 }
