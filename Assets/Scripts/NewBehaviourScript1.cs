@@ -6,16 +6,13 @@ using UnityEngine;
 public class NewBehaviourScript1 : MonoBehaviour
 {
 
-  // Use this for initialization
   void Start ()
   {
-    // back to square 1
+    // yet another change here
   }
 
-  void Update()
+  void LateUpdate()
   {
 
   }
-
-  // Removed YetAnotherFunction
 }
