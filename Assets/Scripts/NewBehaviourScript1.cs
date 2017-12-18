@@ -10,6 +10,7 @@ public class NewBehaviourScript1 : MonoBehaviour
   void Start ()
   {
     // back to square 1
+    // huh really
   }
 
   void Update()
@@ -17,5 +18,5 @@ public class NewBehaviourScript1 : MonoBehaviour
 
   }
 
-  // Removed YetAnotherFunction
+  // YetAnotherFunction was here, we miss it!
 }
