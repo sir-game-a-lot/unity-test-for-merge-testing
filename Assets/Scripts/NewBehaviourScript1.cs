@@ -8,12 +8,16 @@ public class NewBehaviourScript1 : MonoBehaviour
   // Use this for initialization
   void Start ()
   {
-    // hahaha!
+    // I'm removing this line
   }
 
   // Update is called once per frame
   void Update1()
   {
 
+  }
+
+  void YetAnotherFunction()
+  {
   }
 }
